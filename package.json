@@ -1,0 +1,12 @@
+{
+	"private": true,
+	"name": "uikit",
+	"version": "1.0.0",
+	"description": "A bootstrap uikit.",
+	"main": "build.js",
+	"author": "26medias",
+	"devDependencies": {
+		"gulp": "latest",
+		"gulp-less": "latest"
+	}
+}
